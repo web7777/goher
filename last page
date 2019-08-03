@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src=" JavaScript.js"></script>
+    <link rel="stylesheet" type="text/css" href="StyleSheet1.css">
+    <meta charset="utf-8" />
+    <title>MR.Recommendation</title>
+</head>
+<body>
+    <div class="navbar">
+        <p1>MR.Recommendation</p1>
+        <a  href="http://localhost:64479/HtmlPage1.html">Home</a>
+        <div class="subnav">
+            <button class="subnavbtn">Movies <i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+                <a href="http://localhost:64479/HtmlPage2.html">Horror</a>
+                <a href="http://localhost:64479/HtmlPage3.html">Action</a>
+                <a href="http://localhost:64479/HtmlPage4.html">Drama</a>
+                <a href="http://localhost:64479/HtmlPage5.html">History</a>
+            </div>
+        </div>
+
+        <a href="http://localhost:64479/HtmlPage6.html">Contact</a>
+        <a href="http://localhost:64479/HtmlPage7.html">About</a>
+
+        <div class="right">
+            <input type="text" class="searchterm" name="" placeholder="Find Movies...">
+            <input type="button" value="search" />
+            <a href="#login">Log in</a>
+            <a href="#signup">Sign UP</a>
+        </div>
+
+    </div>
+    <h2><font size="+3"><b>A Night of Horroro Volume 1 (2015)</b></font></h2>
+    <img src="horroro.jpg" class="i" style="width:40%" height="450" />
+    <h3><b>SYNOPSIS:</b></h3> 
+    <p10>Ten directors come together for one night of horror with the first annual A Night of Horror: Volume 1 anthology featuring zombies, demonic entities, self-surgery, cannibalism and much more.</p10>
+    <h4><b>REVIEW:</b></h4>
+    <p11>A Night of Horror: Volume 1 is an anthology horror film created through a partnership between Sydney, Australia’s A Night of Horror International Film Festival and Deadhouse Films. Five to ten minute short horror film submissions were requested that  included the theme, “blood.” The resulting film was released in November 2015 at this year’s festival and is produced by Enzo Tedeschi, producer and co-writer of The Tunnel (2011), and Dean Betram, the festival director. The resulting anthology includes 8 shorts plus a connecting story from 10 different directors. Let’s take them one by one.</p11>
+    <h4><b>Life Imitates – directed by Enzo Tedeschi, written by Daniel Berghofer:</b></h4>
+    <p12>
+        This is connecting story begins with an unconscious woman, played by Bianca Bradey (Wyrmwood, 2015), lying on the wood plank floor of a large room. After she regains consciousness, she makes her way into a connecting room, which contains a large canvas painting streaked red with blood and a small box sitting on a table. The box is emitting a low hum, which segues into the first of the eight independent short films.
+
+        Between each short, we return to the woman as she moves from room to room, each room containing a large white canvas with a unique blood pattern on it. There are always one or two other items in the room that lead us into the next short film.
+    </p12>
+    <h4><b>Hum – written and directed by Bossi Baker:</b></h4>
+    <p13>A woman (Jessica Nicole Collins) hears a constant low hum in her apartment and it is driving her nuts. She tries to get help from her neighbor and the building maintenance man, but to no avail. As the hum gets louder and louder, and more and more penetrating, the woman, having been unable to sleep, becomes more and more disconnected from reality.</p13>
+    <h4><b>Point of View – directed by Justin Harding, written by Jon Hill:</b></h4>
+    <p14>
+        A coroner (Jessica Hinkson) is working the graveyard shift in the morgue, with no one else around except the night watchman (Peter Higginson), when she notices that the cadaver (Kristy Kennedy) on which she is working is changing position and location when she’s not looking. And it is coming after her! This is one of the standouts for me, with a sort of reverse take on hiding your head under the blankets to avoid the monster. The acting is topnotch and there is some clever thinking that went into determining how the parties might behave in this situation.
+
+    </p14>
+    <h4><b>I Am Undone – directed by Rebecca Thomson, written by Claire d’Este:</b></h4>
+    <p15>Dr. Kelly (Karissa Lane) is performing cosmetic injections on a customer/patient (Nicole Farrow), when the good doctor’s own enhancements begin to come undone. Another one of my favorites, this one is over the top in concept and visuals, with copious amounts of bodily fluids oozing and spraying onto the doctor and her client. It’s also the only one of the shorts that fits into the comedy horror subgenre. Carrying the comedic tone all the way through to the credits, the crew includes Boobateers and a Pubes Wrangler.</p15>
+
+
+</body>
+</html>
